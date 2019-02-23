@@ -1,0 +1,60 @@
+body{
+	background-color: rgb(122,132,155);
+	background-image: url(images.jpg);
+	
+	
+}
+h1{
+	text-align: center;
+	font-size: 45px;
+	font-family: cursive;
+
+}
+mark{
+	background-color: green;
+	color:violet;
+}
+p{
+	font-size: 30px;
+	color:maroon;
+}
+.mark{
+	background-color: red;
+	color:green;
+}
+a{
+	color:violet;
+	background-color: green;
+}
+.para1{
+	color:maroon;
+}
+#solidb{
+	border-style: solid;
+	border-color:red;
+	border-width:5px;
+	border-radius: 12px;
+	background-color: pink;
+}
+#multib{
+	color:blue;
+	background-color: white;
+	border-style: dotted;
+	border-color:maroon;
+	border-right-style: dashed;
+	border-top-style: solid;
+	border-left:7px dashed red;
+}
+#border{
+	color:blue;
+	border:3px solid;
+	border-style: dotted inset dashed;
+	background-color: grey;
+	border-radius:8px;
+	border-left: 10px solid;
+	border-width: 10px;
+}
+#pic{
+	color:lightblue;
+	font-family: cursive;
+}
